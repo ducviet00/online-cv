@@ -59,15 +59,15 @@ education:
       university: Hanoi Univeristy of Science and Technology
       time: 2018 - Present
       details: |
-        Major: Computer Science
+        - Major: Computer Science
 
     - degree: High School
       university: Nguyen Tat Thanh Gifted High School
       time: 2015 - 2018
       details: |
-        Specialization: Physics
-    - university: Third Prize in the Provincial Level Contest in Informatics
-      time: 2017
+        - Specialization: Physics
+        - Third Prize in the Provincial Level Contest in Informatics
+
     - university: National High School Graduation Examination
       time: July - 2018
       details: |
