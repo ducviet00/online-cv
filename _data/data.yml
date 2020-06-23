@@ -55,28 +55,22 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Undergraduate Bachelor of Computer Science 
+      university: Hanoi Univeristy of Science and Technology
+      time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Major: Computer Science
+
+    - degree: 
+      university: National High School Graduation Examination
+      time: July - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Score 24,9/30 - Top 0.5% 
+    - degree: Student
+      university: Nguyen Tat Thanh Gifted High School
+      time: 2015 - 2018
+      details: |
+        Specialization: Physics
 experiences:
     - role: Lead Developer
       time: 2015 - Present
