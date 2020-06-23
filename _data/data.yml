@@ -61,16 +61,16 @@ education:
       details: |
         Major: Computer Science
 
+    - degree: High School
+      university: Nguyen Tat Thanh Gifted High School
+      time: 2015 - 2018
+      details: |
+        Specialization: Physics
     - degree: 
       university: National High School Graduation Examination
       time: July - 2018
       details: |
         Score 24,9/30 - Top 0.5% 
-    - degree: Student
-      university: Nguyen Tat Thanh Gifted High School
-      time: 2015 - 2018
-      details: |
-        Specialization: Physics
 experiences:
     - role: Lead Developer
       time: 2015 - Present
