@@ -66,11 +66,13 @@ education:
       time: 2015 - 2018
       details: |
         Specialization: Physics
-    - degree: 
-      university: National High School Graduation Examination
+        Third Prize in the Provincial Level Contest in Informatics
+    
+    - university: National High School Graduation Examination
       time: July - 2018
       details: |
         Score 24,9/30 - Top 0.5% 
+      
 experiences:
     - role: Intern Reseacher
       time: 2019 - Present
