@@ -86,9 +86,7 @@ projects:
     assignments:
       - title: MNIST Handwritten Digit Recognition
         link: "https://github.com/ducviet00/MNIST-Handwritten-Digit-Recognition-from-scratch"
-        tagline: |
-          -  "Reimplement Deep Neural Network from scratch"
-          -  "Re-build VGGNet, Resnet model"
+        tagline: "Reimplement Deep Neural Network from scratch, Re-build VGGNet, Resnet model"
 
       - title: Truyen Kieu generate
         link: "#"
@@ -100,7 +98,7 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    Programming Languages:
+    programming:
       - name: Python 
         level: 80%
 
@@ -110,7 +108,7 @@ skills:
       - name: C/C++
         level: 80%
     
-    Framework:
+    framework:
       - name: Tensorflow
         level: 60%
 
