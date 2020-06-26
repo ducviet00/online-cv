@@ -90,7 +90,7 @@ projects:
         link: "https://github.com/ducviet00/MNIST-Handwritten-Digit-Recognition-from-scratch"
         tagline: |
          - Reimplement Deep Neural Network from scratch
-         - Re-build VGGNet, Resnet model
+         - Re-build VGGNet, Resnet architecture
 
       - title: Stock Market News
         link: "https://github.com/ducviet00/Stock-Market-News"
@@ -105,15 +105,14 @@ skills:
 
     programming:
       - name: Python 
-        level: 80%
 
       - name: Java
-        level: 70%
 
       - name: C/C++
-        level: 80%
-    
-    framework:
+
+      - name: SQL (SQL Server)
+
       - name: Tensorflow
-        level: 60%
+
+
 
