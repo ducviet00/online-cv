@@ -92,10 +92,10 @@ projects:
          - Reimplement Deep Neural Network from scratch
          - Re-build VGGNet, Resnet model
 
-      - title: Truyen Kieu generate
-        link: "#"
+      - title: Stock Market News
+        link: "https://github.com/ducviet00/Stock-Market-News"
         tagline: |
-         - Using LSTM to generate poem like Truyen Kieu's (Nguyen Du) style
+         - Writing news about stock
 
 publications:
 
