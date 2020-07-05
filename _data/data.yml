@@ -59,7 +59,8 @@ education:
       university: Hanoi University of Science and Technology
       time: 2018 - 2023
       details: |
-        - •	Major GPA: 3.2
+        - Major: Computer Science
+        - Major GPA: 3.2
 
     - degree: High School Diploma
       university: Nguyen Tat Thanh Gifted High School
@@ -71,7 +72,7 @@ education:
     - university: National High School Graduation Examination
       time: July - 2018
       details: |
-        Score 24,9/30 - Top 0.5% 
+        - Score 24,9/30 - Top 0.5% 
       
 experiences:
     - role: Intern Researcher
@@ -79,8 +80,8 @@ experiences:
       company: IOT-AI Lab
       details: |
         Supervisor: 
-        - Assoc Prof. Thang Huynh Quyet, SoICT, HUST
-        - Ph.D Phi Le Nguyen, SoICT, HUST
+        - Assoc Prof. **Thang Huynh Quyet**, SoICT, HUST
+        - Ph.D **Phi Le Nguyen**, SoICT, HUST
         
 projects:
     title: Projects
