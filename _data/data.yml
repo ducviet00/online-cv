@@ -55,13 +55,13 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: Bachelor of Computer Science 
-      university: Hanoi Univeristy of Science and Technology
-      time: 2018 - Present
+    - degree: Degree of Engineer in Computer Science 
+      university: Hanoi University of Science and Technology
+      time: 2018 - 2023
       details: |
-        - Major: Computer Science
+        - •	Major GPA: 3.2
 
-    - degree: High School
+    - degree: High School Diploma
       university: Nguyen Tat Thanh Gifted High School
       time: 2015 - 2018
       details: |
@@ -89,19 +89,19 @@ projects:
       - title: MNIST Handwritten Digit Recognition
         link: "https://github.com/ducviet00/MNIST-Handwritten-Digit-Recognition-from-scratch"
         tagline: |
-         - Reimplement Deep Neural Network from scratch
-         - Re-build VGGNet, Resnet architecture
+         - Re-Implemented Deep Neural Network from scratch
+         - Re-built VGGNet, Resnet Architecture
 
       - title: Stock Market News
         link: "https://github.com/ducviet00/Stock-Market-News"
         tagline: |
-         - Writing news about stock
+         - Built the application for generating news about VN30 stocks
 
 publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: TECHNICAL SKILLS
 
     programming:
       - name: Python 
@@ -112,7 +112,9 @@ skills:
 
       - name: SQL (SQL Server)
 
-      - name: Tensorflow
+      - name: Machine Learning/Deep Learning
+
+      - name: Data Visualization
 
 
 
